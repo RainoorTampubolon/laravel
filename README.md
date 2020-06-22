@@ -34,3 +34,12 @@ Shifts for *PHP* include:
 - [PSR-2 - adopt the PSR-2 code style](https://laravelshift.com/upgrade-psr2-code-style-standard)
 - [PSR-4 - upgrade from PSR-0 to PSR-4](https://laravelshift.com/upgrade-namespace-psr0-psr4)
 - [Mysqli Shift - covert mysql to mysqli](https://laravelshift.com/upgrade-mysql-mysqli)
+
+For using this laravel project in your local:
+
+- make sure composer already installed on your device by command "composer" on your command prompt or terminal
+- open this project directory on command prompt
+- type "composer update"
+- wait until all the libraries are downloded
+- after it successfully installed type command "php artisan key:generate"
+- that's it. Your project already usable and ready to code
